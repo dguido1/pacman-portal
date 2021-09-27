@@ -26,3 +26,16 @@
 #### Note: This is the state of the game at final submission (March 11, 2020) <br> ***All features finished!***
 
 ![pac-portal](https://user-images.githubusercontent.com/47490318/134831676-c563ef8b-3c11-473d-a37e-aca184fadb42.gif)
+<br>
+
+***
+
+<br/>
+Thanks for reading!<br/><br/>
+ 
+If you like what you see give this repo  
+a star and share it with your friends.
+
+Your support is greatly appreciated!<br/><br/>
+
+<br/><br/>
