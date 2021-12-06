@@ -4,7 +4,7 @@
   
 ### A twist on the original Pacman allowing the use of portals
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;Made by David Guido (@dguido1)
+#### &nbsp;&nbsp;&nbsp;&nbsp;Made by David Guido (@dguido1) and Josh Maranan 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Pygame](https://www.pygame.org/news), an open source game engine
 <br> &nbsp;&nbsp;&nbsp;&nbsp;For CPSC 386 (Introduction to Game Design and Production) at [***California State University Fullerton***](http://www.fullerton.edu/)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spring 20'
 
